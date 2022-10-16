@@ -1,0 +1,23 @@
+body {
+    background: lightcyan;
+}
+
+div {
+    background: white;
+}
+
+p {
+    color: purple;
+}
+
+li {
+    font-size: 22px;
+}
+
+img {
+    height: 180px;
+}
+
+.bg-lightgreen {
+    background: lightgreen;
+}
